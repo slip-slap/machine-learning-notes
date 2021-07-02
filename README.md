@@ -1,5 +1,8 @@
 # Infinity in Deep Learning 深度学习“无限”精彩
 
+
+
+hh
 * ### [Infinite Width: Neural Networks as Gaussian Process and Neural Tangent Kernel (NTK)](https://github.com/roboticcam/machine-learning-notes/blob/master/files/gp_nn.pdf) ###
 
 Detailed derivation of neural networks as (1) Gaussian Process using central Limit theorem (2) Neural Tangent Kernel (NTK)
